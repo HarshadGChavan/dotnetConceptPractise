@@ -1,0 +1,15 @@
+
+*.dll
+*.cache
+demo_object_var_dynamic/demo_object_var_dynamic/bin/Debug/net5.0/demo_object_var_dynamic.deps.json
+*.exe
+*.pdb
+demo_object_var_dynamic/demo_object_var_dynamic/bin/Debug/net5.0/demo_object_var_dynamic.runtimeconfig.dev.json
+demo_object_var_dynamic/demo_object_var_dynamic/bin/Debug/net5.0/demo_object_var_dynamic.runtimeconfig.json
+demo_object_var_dynamic/demo_object_var_dynamic/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+demo_object_var_dynamic/demo_object_var_dynamic/obj/Debug/net5.0/demo_object_var_dynamic.csproj.FileListAbsolute.txt
+demo_object_var_dynamic/demo_object_var_dynamic/obj/Debug/net5.0/demo_object_var_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+demo_object_var_dynamic/demo_object_var_dynamic/obj/demo_object_var_dynamic.csproj.nuget.dgspec.json
+demo_object_var_dynamic/demo_object_var_dynamic/obj/demo_object_var_dynamic.csproj.nuget.g.props
+demo_object_var_dynamic/demo_object_var_dynamic/obj/demo_object_var_dynamic.csproj.nuget.g.targets
+demo_object_var_dynamic/.vs/Basic_Concept/v16/.suo
