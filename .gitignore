@@ -13,3 +13,4 @@ demo_object_var_dynamic/demo_object_var_dynamic/obj/demo_object_var_dynamic.cspr
 demo_object_var_dynamic/demo_object_var_dynamic/obj/demo_object_var_dynamic.csproj.nuget.g.props
 demo_object_var_dynamic/demo_object_var_dynamic/obj/demo_object_var_dynamic.csproj.nuget.g.targets
 demo_object_var_dynamic/.vs/Basic_Concept/v16/.suo
+*.v2
