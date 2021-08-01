@@ -18,6 +18,7 @@ namespace AsyncAwaitPractise
             Console.WriteLine("Take out Cups");
             Console.WriteLine("attach Tea bag to cups");
             await boilingWater;
+            Console.WriteLine(boilingWater);
             var tea= "Tea is ready to serve";
             return tea;
         }
