@@ -15,3 +15,5 @@ LinqBasic/.vscode/launch.json
 LinqBasic/.vscode/tasks.json
 demo_object_var_dynamic/demo_object_var_dynamic/bin/Debug/*
 demo_object_var_dynamic/demo_object_var_dynamic/obj/*
+*/obj/*
+*/bin/Debug/*
