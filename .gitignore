@@ -17,3 +17,6 @@ demo_object_var_dynamic/demo_object_var_dynamic/bin/Debug/*
 demo_object_var_dynamic/demo_object_var_dynamic/obj/*
 */obj/*
 */bin/Debug/*
+Threading/BasicThreading/bin/Debug/*
+Threading/BasicThreading/obj/*
+
