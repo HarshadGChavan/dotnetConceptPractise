@@ -20,3 +20,5 @@ demo_object_var_dynamic/demo_object_var_dynamic/obj/*
 Threading/BasicThreading/bin/Debug/*
 Threading/BasicThreading/obj/*
 
+Threading/ThreadSafeExample/bin/Debug/*
+Threading/ThreadSafeExample/obj/*

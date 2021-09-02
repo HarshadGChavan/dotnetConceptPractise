@@ -13,6 +13,7 @@ namespace BasicThreading
             t2.Start();
 
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
 
         public static void Function1()
